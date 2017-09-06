@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>NS01012W033</Machine>
+    <WindowsUser>bojan.m.popovic</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>82a4b4c0-34e2-456a-96cf-ac4c7b8e9cce</PackageIdentityName>
+    <IntermediateOutputPath>c:\users\bojan.m.popovic\documents\visual studio 2013\Projects\Save the Humans\Save the Humans\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>39742E01B2B7C9811CC78FA3BDF8DE533180755B47E47FE563EE7D13431E7906</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>82a4b4c0-34e2-456a-96cf-ac4c7b8e9cce_1.0.0.0_neutral__mdv2eedx388w8</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>82a4b4c0-34e2-456a-96cf-ac4c7b8e9cce_mdv2eedx388w8!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>82a4b4c0-34e2-456a-96cf-ac4c7b8e9cce</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=bojan.m.popovic</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\bojan.m.popovic\documents\visual studio 2013\Projects\Save the Humans\Save the Humans\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-09-06T12:59:50.587</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\bojan.m.popovic\documents\visual studio 2013\Projects\Save the Humans\Save the Humans\bin\Debug\Save the Humans.exe">
+      <PackagePath>Save the Humans.exe</PackagePath>
+      <Modified>2017-09-06T12:59:49.455</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\bojan.m.popovic\documents\visual studio 2013\Projects\Save the Humans\Save the Humans\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T05:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\bojan.m.popovic\documents\visual studio 2013\Projects\Save the Humans\Save the Humans\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T05:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\bojan.m.popovic\documents\visual studio 2013\Projects\Save the Humans\Save the Humans\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T05:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\bojan.m.popovic\documents\visual studio 2013\Projects\Save the Humans\Save the Humans\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T05:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\bojan.m.popovic\documents\visual studio 2013\Projects\Save the Humans\Save the Humans\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2017-09-06T12:59:49.224</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\bojan.m.popovic\documents\visual studio 2013\Projects\Save the Humans\Save the Humans\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2017-09-06T12:59:49.224</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\bojan.m.popovic\documents\visual studio 2013\Projects\Save the Humans\Save the Humans\bin\Debug\Save the Humans.xr.xml">
+      <PackagePath>Save the Humans.xr.xml</PackagePath>
+      <Modified>2017-09-06T12:59:49.008</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\bojan.m.popovic\documents\visual studio 2013\Projects\Save the Humans\Save the Humans\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2017-09-06T12:59:49.986</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
