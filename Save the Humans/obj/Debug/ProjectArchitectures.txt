@@ -1,1 +1,1 @@
-c:\users\bojan.m.popovic\documents\visual studio 2013\Projects\Save the Humans\Save the Humans\Save the Humans.csproj;neutral
+C:\Users\bojan.m.popovic\Documents\Visual Studio 2013\Projects\Save the Humans\Save the Humans\Save the Humans.csproj;neutral
